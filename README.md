@@ -1,5 +1,5 @@
 # Rob Botman
-2D plattform game developed in Unity.
+2D plattformer game developed in Unity.
 ## Description
 Rob Botman was developed in Unity and C#. It is a single player game, where you control a robot, Rob, that has to fight off waves of enemy robots. You can find and use power ups, and kill enemy robots with a cursor based slingshot.
 
